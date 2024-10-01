@@ -1,4 +1,4 @@
-# phishing-Attack-Academic-Project
+# Phishing-Attack-Academic-Project
 Attachment are the academic phishing attach project . It is website and email based attack. 
 # Why Phishing Attack Project ?  
 This Phishing attack is educational project which promoting cybersecurity awareness, demonstrating simulated Facebook credential phishing. Learn hacking techniques, risks of sharing personal data, and security practices. Empower users to protect against phishing attacks and enhance cybersecurity defenses
